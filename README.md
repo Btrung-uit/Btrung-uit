@@ -73,7 +73,6 @@ A responsive learning experience built in six days by a 16-member team using **R
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Btrung-uit&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github&amp;title_color=818CF8&amp;icon_color=38BDF8&amp;text_color=94A3B8" alt="Trung's GitHub statistics" />
   <img height="165" src="https://streak-stats.demolab.com?user=Btrung-uit&amp;hide_border=true&amp;background=00000000&amp;ring=818CF8&amp;fire=38BDF8&amp;currStreakLabel=818CF8&amp;sideLabels=94A3B8&amp;dates=64748B&amp;currStreakNum=E2E8F0&amp;sideNums=E2E8F0" alt="Trung's GitHub contribution streak" />
 </div>
 
