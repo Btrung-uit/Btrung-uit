@@ -45,7 +45,7 @@ Also worked with **C++, WPF, WinForms, Firebase, Vercel, Framer Motion, and Linu
 
 ## Featured projects
 
-### [TeamPulse](https://github.com/Btrung-uit/TeamPulse) · Flagship project
+### [TeamPulse](https://github.com/Btrung-uit/TeamPulse) · [Live demo](https://teampulse-xgq8.onrender.com/) · Flagship project
 
 **Student Project & Engineering Collaboration Hub** that connects a team's work through:
 
